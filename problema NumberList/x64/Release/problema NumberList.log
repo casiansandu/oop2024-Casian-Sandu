@@ -1,0 +1,11 @@
+﻿  main.cpp
+  NumberList.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\sal.h(2361,8): error C2059: syntax error: 'string'
+  (compiling source file 'NumberList.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\sal.h(2361,12): error C2143: syntax error: missing ';' before '{'
+  (compiling source file 'NumberList.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\sal.h(2361,12): error C2447: '{': missing function header (old-style formal list?)
+  (compiling source file 'NumberList.cpp')
+  

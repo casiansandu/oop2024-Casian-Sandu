@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\casia\OneDrive\Desktop\proiecte vs code\exercitiu 2 lab 2 oop\global.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'main.cpp')
+  
+  Generating code
+  1 of 17 functions ( 5.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  exercitiu 2 lab 2 oop.vcxproj -> C:\Users\casia\OneDrive\Desktop\proiecte vs code\exercitiu 2 lab 2 oop\x64\Release\exercitiu 2 lab 2 oop.exe
