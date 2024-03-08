@@ -1,0 +1,7 @@
+﻿  global.cpp
+  Generating code
+  Compiler switch has changed, fall back to full compilation.
+C:\Users\casia\OneDrive\Desktop\proiecte vs code\lab 2 extra movie class\MovieSeries.cpp(17): warning C4715: 'MovieSeries::add': not all control paths return a value
+  All 24 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  lab 2 extra movie class.vcxproj -> C:\Users\casia\OneDrive\Desktop\proiecte vs code\lab 2 extra movie class\x64\Release\lab 2 extra movie class.exe
