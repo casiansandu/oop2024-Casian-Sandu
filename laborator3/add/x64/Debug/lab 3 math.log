@@ -1,0 +1,18 @@
+﻿  Math.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\sal.h(2361,8): error C2059: syntax error: 'string'
+  (compiling source file 'Math.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\sal.h(2361,12): error C2143: syntax error: missing ';' before '{'
+  (compiling source file 'Math.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\sal.h(2361,12): error C2447: '{': missing function header (old-style formal list?)
+  (compiling source file 'Math.cpp')
+  
+C:\Users\casia\OneDrive\Desktop\proiecte vs code\lab 3 math\Math.cpp(17,11): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\casia\OneDrive\Desktop\proiecte vs code\lab 3 math\Math.cpp(22,15): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\casia\OneDrive\Desktop\proiecte vs code\lab 3 math\Math.cpp(25,11): error C2084: function 'int Math::Add(double,double)' already has a body
+  C:\Users\casia\OneDrive\Desktop\proiecte vs code\lab 3 math\Math.cpp(15,11):
+  see previous definition of 'Add'
+  
+C:\Users\casia\OneDrive\Desktop\proiecte vs code\lab 3 math\Math.cpp(42,11): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\casia\OneDrive\Desktop\proiecte vs code\lab 3 math\Math.cpp(47,15): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
