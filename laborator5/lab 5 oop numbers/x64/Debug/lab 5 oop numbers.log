@@ -1,0 +1,7 @@
+﻿  main.cpp
+  Numbers.cpp
+  Generating Code...
+C:\Users\casia\OneDrive\Desktop\proiecte vs code\lab 5 oop numbers\Numbers.cpp(343): warning C4715: 'operator-': not all control paths return a value
+C:\Users\casia\OneDrive\Desktop\proiecte vs code\lab 5 oop numbers\Numbers.cpp(316): warning C4715: 'operator-': not all control paths return a value
+C:\Users\casia\OneDrive\Desktop\proiecte vs code\lab 5 oop numbers\Numbers.cpp(370): warning C4715: 'operator-': not all control paths return a value
+LINK : fatal error LNK1168: cannot open C:\Users\casia\OneDrive\Desktop\proiecte vs code\lab 5 oop numbers\x64\Debug\lab 5 oop numbers.exe for writing
